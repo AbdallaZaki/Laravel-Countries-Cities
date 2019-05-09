@@ -12,8 +12,8 @@
     "require": {
         "php": ">=7.0",
         "illuminate/support": "5.8.*",
-        "symfony/debug": "^3",
-        "symfony/finder": "^3"
+        "symfony/debug": "^4.2.*",
+        "symfony/finder": "^4.2.*"
     },
     "autoload": {
         "psr-4": {
